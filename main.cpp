@@ -14,4 +14,5 @@ int main()
   cout << myTempC << "° C is " << myTempF << "° F ";
 
   cout << "All done!" << endl;
+  return 0;
 }
