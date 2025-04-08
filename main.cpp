@@ -2,8 +2,8 @@
 #include <iostream>
 using namespace std;
 
-double myTempC;
-double myTempF;
+float myTempC;
+float myTempF;
 
 int main() 
 {
